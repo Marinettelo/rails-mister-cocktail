@@ -1,0 +1,30 @@
+// Import your layouts CSS files here.
+// Examples:
+// @import "dashboard";
+// @import "profile";
+// @import "map";
+
+body {
+  background-image: asset-url('cocktail.jpeg');
+  background-opacity: 0.9;
+  color: white;
+  font-family: arial, sans-serif;
+}
+
+// .translucent {
+//     opacity: 0.4;
+//     filter: alpha(opacity = 40); /* For IE */
+// }
+// #container {
+//     position: relative;
+//     width: 200px;
+//     height: 200px;
+// }
+// #background, #content {
+//     position: absolute;
+//     top: 0;
+//     left: 0;
+// }
+// #background {
+//     background-image: asset-url('cocktail.jpeg');
+// }
